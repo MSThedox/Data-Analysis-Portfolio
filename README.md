@@ -17,7 +17,7 @@ The audio features for each song were extracted using the Spotify Web API and th
 
 <img align="left" width="250" height="150" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/covid19dataimage.jpg"> **[COVID19 Data Analysis](https://github.com/)**
 
-The objective of this project is to analyze--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+In this project I processed, integrated and calculated the COVID-19 and World Happiness Report datasets to determine the relationship between the spread of the Coronavirus in a country and the degree of happiness of the inhabitants of that country.
 
 
 
