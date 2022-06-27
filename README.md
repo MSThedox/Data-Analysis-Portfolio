@@ -7,16 +7,17 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Top 50 Spotify Tracks of 2021 Analysis](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/spotifydataimage.jpg"> **[Top 50 Spotify Tracks of 2021 Analysis](https://github.com/)**
 
 In this project I--  
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/covid19dataimage.jpg"> **[COVID19 Data Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/covid19dataimage.jpg"> **[COVID19 Data Analysis](https://github.com/)**
 
 The objective of this project is to analyze--
 
+#
 
 ## Core Competencies
 
