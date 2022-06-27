@@ -9,7 +9,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="250" height="150" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/spotifydataimage.jpg"> **[Top 50 Spotify Tracks of 2021 Analysis](https://github.com/)**
 
-In this project I--  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+At the end of each year, Spotify compiles a playlist of the songs streamed most often over the course of that year. This year's playlist (Top Tracks of 2021) includes 50 songs.
+The objective in this project is to look for patterns in the audio features of the songs  and find why people stream these songs the most.
+The audio features for each song were extracted using the Spotify Web API and the spotipy Python library. Credit goes to Spotify for calculating the audio feature values.
 
 #
 
