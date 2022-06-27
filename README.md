@@ -21,6 +21,7 @@ In this project I processed, integrated and calculated the COVID-19 and World Ha
 
 
 
+
 ## Core Competencies
 
 - **Skills**: Business Understanding, Data Collection & Ingestion, Wrangling of Data, Data Modeling, Trend & Pattern Identification, Visualization of Data Insights, Data Storyboarding
