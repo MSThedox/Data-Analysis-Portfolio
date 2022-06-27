@@ -1,7 +1,7 @@
 # Data Analysis Portfolio - Amaury Pasgrimaud
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
-- **Email**: [amaury.pasg@gmail.com](archdesai.ad@gmail.com)
+- **Email**: [amaury.pasg@gmail.com](amaury.pasg@gmail.com)
 - **LinkedIn**: [linkedin.com/amaury-pasgrimaud](https://www.linkedin.com/in/amaury-pasgrimaud/)
 
 
