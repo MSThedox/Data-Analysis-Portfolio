@@ -13,7 +13,7 @@ In this project I--
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[COVID19 Data Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/covid19dataimage.jpg"> **[COVID19 Data Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
 The objective of this project is to analyze--
 
