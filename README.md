@@ -19,8 +19,7 @@ The audio features for each song were extracted using the Spotify Web API and th
 
 In this project I processed, integrated and calculated the COVID-19 and World Happiness Report datasets to determine the relationship between the spread of the Coronavirus in a country and the degree of happiness of the inhabitants of that country.
 
-
-
+<br />
 
 ## Core Competencies
 
