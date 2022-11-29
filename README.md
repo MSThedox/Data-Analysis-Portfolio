@@ -24,7 +24,7 @@ In this project I processed, integrated and calculated the COVID-19 and World Ha
 #
 
 
-<img align="left" width="250" height="50" src="https://camo.githubusercontent.com/515b7e390b74cc991ad382e44b8d2bfdb15923632ffec1e73f32762edcaf507e/68747470733a2f2f6d6b3062656c6c6162656174636f6d68716c69702e6b696e73746163646e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f62625f33312e6a7067"> **[Bellabeat Case Study](https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/bellabeat-case-study.ipynb)**
+<img align="left" width="250" height="50" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/bellabeatlogo.jpg"> **[Bellabeat Case Study](https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/bellabeat-case-study.ipynb)**
 
 In this project, I went to analyze data of Bellabeat, a high-tech manufacturer of health-focused products for women. I followed total six steps: Ask, Prepare, Process, Analyze, Share & Act in following analysis. I used Python to analyze data and spreadsheet program (Google Sheets) to visualize data.
 
@@ -36,7 +36,7 @@ I tried to answer these questions:
  
  #
  
- <img align="left" width="250" height="250" src="https://raw.githubusercontent.com/labwilliam/data_analysis_projects/main/cyclistic_bike_share/scripts/logo.png"> **[Cyclistic Bike-Share](https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/Cyclistic-Bike-Share.ipynb)**
+ <img align="left" width="250" height="250" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/cyclisticbikesharelogo.png"> **[Cyclistic Bike-Share](https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/Cyclistic-Bike-Share.ipynb)**
 
 How does a bike-share navigate speedy success?
 
