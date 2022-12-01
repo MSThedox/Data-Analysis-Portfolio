@@ -7,7 +7,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/spotifydataimage.jpg"> **[Top Spotify Tracks of 2021 Analysis](https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/Spotify_Tracks_Analysis.ipynb)**
+<img align="left" width="250" height="150" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/images/spotifydataimage.jpg"> **[Top Spotify Tracks of 2021 Analysis](https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/Spotify_Tracks_Analysis.ipynb)**
 
 At the end of each year, Spotify compiles a playlist of the songs streamed most often over the course of that year. This year's playlist (Top Tracks of 2021) includes 50 songs.
 The objective in this project is to look for patterns in the audio features of the songs  and find why people stream these songs the most.
@@ -15,7 +15,7 @@ The audio features for each song were extracted using the Spotify Web API and th
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/covid19dataimage.jpg"> **[COVID19 Data Analysis](https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/Covid19_Data_Analysis.ipynb)**
+<img align="left" width="250" height="150" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/images/covid19dataimage.jpg"> **[COVID19 Data Analysis](https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/Covid19_Data_Analysis.ipynb)**
 
 In this project I processed, integrated and calculated the COVID-19 and World Happiness Report datasets to determine the relationship between the spread of the Coronavirus in a country and the degree of happiness of the inhabitants of that country.
 
@@ -24,7 +24,7 @@ In this project I processed, integrated and calculated the COVID-19 and World Ha
 #
 
 
-<img align="left" width="250" height="50" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/bellabeatlogo.jpg"> **[Bellabeat Case Study](https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/bellabeat-case-study.ipynb)**
+<img align="left" width="250" height="50" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/images/bellabeatlogo.jpg"> **[Bellabeat Case Study](https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/bellabeat-case-study.ipynb)**
 
 In this project, I went to analyze data of Bellabeat, a high-tech manufacturer of health-focused products for women. I followed total six steps: Ask, Prepare, Process, Analyze, Share & Act in following analysis. I used Python to analyze data and spreadsheet program (Google Sheets) to visualize data.
 
@@ -36,7 +36,7 @@ I tried to answer these questions:
  
  #
  
- <img align="left" width="250" height="250" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/cyclisticbikesharelogo.png"> **[Cyclistic Bike-Share](https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/Cyclistic-Bike-Share.ipynb)**
+ <img align="left" width="250" height="250" src="https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/images/cyclisticbikesharelogo.png"> **[Cyclistic Bike-Share](https://github.com/MSThedox/Data-Analysis-Portfolio/blob/main/Cyclistic-Bike-Share.ipynb)**
 
 How does a bike-share navigate speedy success?
 
